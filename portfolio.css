@@ -1,14 +1,18 @@
+body {
+	background-color: #FAFAFA;
+}
 header {
-
-
+	order: 1;
 }
 
 nav {
-
+	order: 0;
 }
 
 aside {
-
+	float: left;
+	order: -1;
+	flex-direction: column;
 }
 
 section {
@@ -16,18 +20,23 @@ section {
 }
 
 article {
+	order: 2;
+}
+
+.side-bar {
+	width:15%;
+}
+
+.flex-container {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.profile-img {
 
 }
 
-.container {
-	background-color: #FAFAFA;
-}
-
-.profileimg {
-
-}
-
-.titleabout {
+.title-about {
 
 }
 
@@ -39,10 +48,10 @@ article {
 
 }
 
-.projectimage {
+.project-image {
 
 }
 
-.projectdescription {
+.project-description {
 
 }
