@@ -3,6 +3,8 @@ body {
 }
 header {
 	order: 1;
+	width: 100%;
+	margin: 1em;
 }
 
 nav {
@@ -21,6 +23,29 @@ section {
 
 article {
 	order: 2;
+	/* content-box sizing sizes elements according to content excluding any border or padding */
+	/* border-box sizing sizes elements according to content including any border or padding */
+	box-sizing: border-box;
+	width: 33%;
+}
+
+table {
+	display: inline-table;
+	margin: 1em;
+	border-collapse: separate;
+}
+
+table th,
+table td {
+
+}
+
+.project-window {
+	background-color: #EBEDF0;
+	border-style: solid;
+	border-width: .3em;
+	border-radius: 15px;
+	border-color: #FAFAFA;
 }
 
 .side-bar {
@@ -44,14 +69,17 @@ article {
 
 }
 
-.project {
+.project-title {
+	padding-left: 1em;
+	padding-top: 1em;
 
 }
 
 .project-image {
-
+	padding-left: 1em;
 }
 
 .project-description {
-
+	padding-left: 1em;
+	padding-right: 1em;
 }
