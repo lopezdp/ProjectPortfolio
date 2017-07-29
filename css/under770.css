@@ -26,6 +26,6 @@ article {
 	/* border-box sizing sizes elements according to content including any border or padding */
 	box-sizing: border-box;
 	width: 325px;
-	height: 350px;
+	height: 360px;
 	text-align: justify;
 }

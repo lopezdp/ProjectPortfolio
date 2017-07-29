@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Project Portfolio">
+		<meta name="keywords" content="Software Engineer for Hire">
+		<meta name="author" content="David P. Lopez">
+		<title>Software Engineering Project Portfolio</title>
+
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="css/portfolio.css">
+		<link rel="stylesheet" media="screen and (max-width:770px)" href="css/under770.css">
+
+		<link rel="import" href="https://cdn.rawgit.com/zerodevx/zero-md/v0.2.0/build/zero-md.html">
+		<link rel="stylesheet" href="https://cdn.rawgit.com/zerodevx/zero-md/v0.2.0/markdown-themes/default.css">
+		<link rel="stylesheet" href="https://cdn.rawgit.com/zerodevx/zero-md/v0.2.0/highlight-themes/default.css">
+
+
+		<!-- Custom JS -->
+		<script src="js/portfolio.js"></script>
+
+		<!-- Markdown Rendering -->
+		<script src="https://cdn.rawgit.com/webcomponents/webcomponentsjs/v0.7.15/webcomponents-lite.min.js"></script>
+
+	</head>
+
+	<body>
+		<div class="side-bar">
+			<aside>
+				<section>
+					<img src="img/profileImg.jpg" alt="David P. Lopez Profile Image" class="profile-img">
+				</section>
+
+				<section class="title-about">
+					<h4 class="font-style">Software Engineer for Hire.</h5>
+				</section>
+
+				<section class="about">
+					<p class="font-style">
+						"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness." - Cicero 1st Century BCE
+					</p>
+				</section>
+
+				<section class="btn-group">
+					<a href="index.html" class="button">Projects</a>
+
+					<a href="#" class="button">References</a>
+					<!--<a href="#" class="button">Resume</a>-->
+				</section>
+			</aside>
+		</div>
+
+		<div id="resume">
+			<!-- Using text="markdown" for now. Will eventually load from assets/resume.md -->
+			<zero-md file="assets/resume.md">
+				<!-- Remember to pass in empty container of class="md-html". -->
+				<div class="md-html"></div>
+			</zero-md>
+		</div>
+	</body>
+</html>
