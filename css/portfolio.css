@@ -59,12 +59,8 @@ a {
 	color: black;
 }
 
-#resume {
-	order: 2;
-	box-sizing: border-box;
+.resume {
 	padding: 30px;
-	flex-direction: column;
-
 }
 
 .font-style {

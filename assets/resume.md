@@ -1,9 +1,13 @@
 # David P. Lopez
+
 #### Miami, FL
 **Email:** DavidPLopez@Live.com
+
 **Cell:** 305.527.7237
+
 #### Online Resources:
 [GitHub Repository](https://www.github.com/lopezdp)
+
 [Project Portfolio](http://www.davidplopez.com)
 
 ---
