@@ -18,7 +18,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 ## Education
 
-**Miami Dade College**
+##### Miami Dade College
 
 **A.S. Computer Programming:** *Mobile Application Development* - 2017 (expected)
 * **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
