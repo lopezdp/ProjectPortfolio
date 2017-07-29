@@ -24,9 +24,9 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **Related Courses:** *JavaScript, Python, PostgreSQL, Node.js, AJAX, HTML, & CSS*
 
 ## Certifications, & Technical Skills
-* *Microsoft Certificate of Achievement 80542 Customization & Configuration in Microsoft Dynamics CRM* - 2014
-* *Microsoft Certificate of Achievement 80545 Customer Service in Microsoft Dynamics CRM* - 2014
-* *Microsoft Certificate of Achievement 80545 Sales Management in Microsoft Dynamics CRM* - 2014
+* **Microsoft Certificate of Achievement 80542** *Customization & Configuration in Microsoft Dynamics CRM* - 2014
+* **Microsoft Certificate of Achievement 80545** *Customer Service in Microsoft Dynamics CRM* - 2014
+* **Microsoft Certificate of Achievement 80545** *Sales Management in Microsoft Dynamics CRM* - 2014
 * **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C, Ruby
 * **Web Technologies:** Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
 * **IDEs:** XCode, NetBeans, Visual Studio, Eclipse, QT, Atom, SublimeText
