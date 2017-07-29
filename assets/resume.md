@@ -54,6 +54,8 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Adding functionality to a node.js application that includes the addition of CFS component Mnemonics to parent tables, deployment to additional servers for use by the Orion AA2 team members, & the ability to refresh JSON data when the database is updated.
 * Completing error checking & debugging of over 3000 lines of code to ensure the quality of the project requirements to deploy an application that met the standards of the Orion AA2 team.
 
+---
+
 2017 - **Miami, FL**
 
 **SeaBots Augmented Reality Network**
@@ -75,6 +77,8 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Providing a common method of analyzing data in the CDD, as well as a method of generating the ".h" & ".rec" files from the CDD that directly benefits current & future NASA projects.
 * Developing a GUI that interacts with PostgreSQL (the CDD), & allows users to intuitively navigate the information in the CDD.
 
+---
+
 *April 2014 − January 2017*
 
 **Miami, FL.**
@@ -86,6 +90,8 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Supervised teams of more than 50 tradespeople to construct new ground up facilities & renovation projects throughout the Miami area & designed & developed technology solutions to provide advanced solutions for the construction industry.
 * Developed IoT time tracking devices on the Arduino UNO R3 platform using C, that were installed in the team’s hard hats, to allow the management staff to employ precise time controls which helped to reduce costs by $1500 per week.
 * Developed a web application that allows the accounting department to communicate with the field staff to determine WIP that must be billed in Real Time using NetSuite, HTML, CSS, & JS.
+
+---
 
 *October 2008 – March 2014*
 
@@ -99,6 +105,8 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Successfully designed, engineered, & built the first LEED-certified home to be approved by the Miami-Dade County Building Department as a self-sustainable, environmentally efficient building that produced its own electricity, collected its own rainwater, & recycled its own gray water.
 * Wrote software algorithms & built database systems for the existing estimating department that enabled our estimators to work more efficiently & produce more accurate work, which minimized cost overruns on jobs that we were awarded by 5%.
 
+---
+
 *June 2004 – September 2008*
 
 **Miami, FL.**
@@ -110,6 +118,8 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Implemented & customized the NetSuite CRM Suite which included a product database of over 2,000 products using custom pricing matrices, payroll & accounting modules, & an e-commerce portal with an integrated merchant account processor.
 * Developed custom estimating applications & databases to automate our pricing procedures & to shorten the learning curve for all new hires in the estimating department by building in-house software using C++ & MySQL.
 * Founded & Sold a building supply company & leveraged my relationships to build a business that sold over $2mn in construction supplies annually after implementing an autonomous rebar fabrication facility.
+
+---
 
 *April 2002 – May 2004*
 
