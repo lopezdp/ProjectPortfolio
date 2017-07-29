@@ -1,14 +1,14 @@
 # David P. Lopez
 
 #### Miami, FL
-**Email:** DavidPLopez@Live.com
+* **Email:** DavidPLopez@Live.com
 
-**Cell:** 305.527.7237
+* **Cell:** 305.527.7237
 
 #### Online Resources:
-[GitHub Repository](https://www.github.com/lopezdp)
+* [GitHub Repository](https://www.github.com/lopezdp)
 
-[Project Portfolio](http://www.davidplopez.com)
+* [Project Portfolio](http://www.davidplopez.com)
 
 ---
 
@@ -17,7 +17,9 @@ Results driven engineer with an ability to apply strong analytical skills under 
 ---
 
 ## Education
+
 **Miami Dade College**
+
 **A.S. Computer Programming:** *Mobile Application Development* - 2017 (expected)
 * **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
 
