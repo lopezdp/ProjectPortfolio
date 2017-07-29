@@ -1,9 +1,9 @@
 # David P. Lopez
 ### Miami, FL
 
-*Email:* DavidPLopez@Live.com
+**Email:** DavidPLopez@Live.com
 
-###Online Resources:
+### Online Resources:
 
 https://www.github.com/lopezdp
 http://www.davidplopez.com

@@ -61,6 +61,9 @@ a {
 
 #resume {
 	order: 2;
+	box-sizing: border-box;
+	padding: 30px;
+	flex-direction: column;
 
 }
 
