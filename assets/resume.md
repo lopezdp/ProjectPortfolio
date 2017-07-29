@@ -40,12 +40,15 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 ## Projects
 2017 - **Houston, TX**
+
 **CFS Command & Data Dictionary Viewer/GUI**
+
 * Developing a GUI that interacts with a PostgreSQL database (the CCDD), & allow users to intuitively navigate the information in the CDD (without requiring them to have training on PostgreSQL itself).
 * Adding functionality to a node.js application that includes the addition of CFS component Mnemonics to parent tables, deployment to additional servers for use by the Orion AA2 team members, & the ability to refresh JSON data when the database is updated.
 * Completing error checking & debugging of over 3000 lines of code to ensure the quality of the project requirements to deploy an application that met the standards of the Orion AA2 team.
 
 2017 - **Miami, FL**
+
 **SeaBots Augmented Reality Network**
 
 * Completed the 3d Modeling, 3D Printing, & Engineering of a network of ROV’s & Semi-Submersibles that are capable of cleaning plastic particulates from the ocean & recovering crude oil from the surface of the ocean in Fusion360.
@@ -54,9 +57,12 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 ## Experience
 *June 2017 − Present*
+
 **Houston, TX.**
+
 **National Aeronautics & Space Administration (NASA)**
-**Software Engineering Intern**
+
+**Software Engineer**
 
 * Designing a Graphical User Interface (GUI) to interact with a Command & Data Dictionary (CDD), a comprehensive definition of all commands & telemetry data used by NASA spacecraft.
 
@@ -65,8 +71,11 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Developing a GUI that interacts with PostgreSQL (the CDD), & allows users to intuitively navigate the information in the CDD.
 
 *April 2014 − January 2017*
+
 **Miami, FL.**
+
 **Uribe Construction, Inc.**
+
 **Superintendent/Software Engineer**
 
 * Supervised teams of more than 50 tradespeople to construct new ground up facilities & renovation projects throughout the Miami area & designed & developed technology solutions to provide advanced solutions for the construction industry.
@@ -76,8 +85,11 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Developed a web application that allows the accounting department to communicate with the field staff to determine WIP that must be billed in Real Time using NetSuite, HTML, CSS, & JS.
 
 *October 2008 – March 2014*
+
 **Miami, FL.**
+
 **LCM Group, Inc.**
+
 **Project Manager/General Contractor**
 
 * Developed business rules, technical requirements, and business logic for all database systems used by the company to manage, track and record the workflow processes that the company needed to maintain profitability & accountability inside of NetSuite CRM.
@@ -98,8 +110,11 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Founded & Sold a building supply company & leveraged my relationships to build a business that sold over $2mn in construction supplies annually after implementing an autonomous rebar fabrication facility.
 
 *April 2002 – May 2004*
+
 **Miami, FL.**
+
 **Turner Construction Company**
+
 **Field Engineer/Assistant Superintendent**
 
 * Implemented, & customized $3mn project management software & databases to manage & control the project workflow by leveraging my understanding of technology to maintain the digital resources of the company.
