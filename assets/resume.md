@@ -30,6 +30,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **Related Courses:** *JavaScript, Python, PostgreSQL, Node.js, AJAX, HTML, & CSS*
 
 ## Certifications, & Technical Skills
+
 * **Microsoft Certificate of Achievement 80542** *Customization & Configuration in Microsoft Dynamics CRM* - 2014
 * **Microsoft Certificate of Achievement 80545** *Customer Service in Microsoft Dynamics CRM* - 2014
 * **Microsoft Certificate of Achievement 80545** *Sales Management in Microsoft Dynamics CRM* - 2014
@@ -71,9 +72,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 **Software Engineer**
 
 * Designing a Graphical User Interface (GUI) to interact with a Command & Data Dictionary (CDD), a comprehensive definition of all commands & telemetry data used by NASA spacecraft.
-
 * Providing a common method of analyzing data in the CDD, as well as a method of generating the ".h" & ".rec" files from the CDD that directly benefits current & future NASA projects.
-
 * Developing a GUI that interacts with PostgreSQL (the CDD), & allows users to intuitively navigate the information in the CDD.
 
 *April 2014 − January 2017*
@@ -85,9 +84,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 **Superintendent/Software Engineer**
 
 * Supervised teams of more than 50 tradespeople to construct new ground up facilities & renovation projects throughout the Miami area & designed & developed technology solutions to provide advanced solutions for the construction industry.
-
 * Developed IoT time tracking devices on the Arduino UNO R3 platform using C, that were installed in the team’s hard hats, to allow the management staff to employ precise time controls which helped to reduce costs by $1500 per week.
-
 * Developed a web application that allows the accounting department to communicate with the field staff to determine WIP that must be billed in Real Time using NetSuite, HTML, CSS, & JS.
 
 *October 2008 – March 2014*
@@ -99,20 +96,19 @@ Results driven engineer with an ability to apply strong analytical skills under 
 **Project Manager/General Contractor**
 
 * Developed business rules, technical requirements, and business logic for all database systems used by the company to manage, track and record the workflow processes that the company needed to maintain profitability & accountability inside of NetSuite CRM.
-
 * Successfully designed, engineered, & built the first LEED-certified home to be approved by the Miami-Dade County Building Department as a self-sustainable, environmentally efficient building that produced its own electricity, collected its own rainwater, & recycled its own gray water.
-
 * Wrote software algorithms & built database systems for the existing estimating department that enabled our estimators to work more efficiently & produce more accurate work, which minimized cost overruns on jobs that we were awarded by 5%.
 
 *June 2004 – September 2008*
+
 **Miami, FL.**
+
 **Island Building Supply, Inc.**
+
 **Operations/Purchasing Manager**
 
 * Implemented & customized the NetSuite CRM Suite which included a product database of over 2,000 products using custom pricing matrices, payroll & accounting modules, & an e-commerce portal with an integrated merchant account processor.
-
 * Developed custom estimating applications & databases to automate our pricing procedures & to shorten the learning curve for all new hires in the estimating department by building in-house software using C++ & MySQL.
-
 * Founded & Sold a building supply company & leveraged my relationships to build a business that sold over $2mn in construction supplies annually after implementing an autonomous rebar fabrication facility.
 
 *April 2002 – May 2004*
@@ -124,7 +120,5 @@ Results driven engineer with an ability to apply strong analytical skills under 
 **Field Engineer/Assistant Superintendent**
 
 * Implemented, & customized $3mn project management software & databases to manage & control the project workflow by leveraging my understanding of technology to maintain the digital resources of the company.
-
 * Supervised the construction of the Miami International Airport 745B Project: 4-story construction contract to build Terminal B & C valued at $250,000,000.
-
 * Planned & Coordinated the daily construction operations & acquired the necessary skills as a construction professional to become licensed as a General Contractor in the State of Florida.
