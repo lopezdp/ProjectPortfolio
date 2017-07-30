@@ -1,7 +1,7 @@
 # David P. Lopez
 
 #### Miami, FL
-* **Email:** DavidPLopez@Live.com
+* **Email:** [DavidPLopez@Live.com](mailto:DavidPLopez@Live.com)
 
 * **Cell:** 305.527.7237
 
@@ -48,11 +48,12 @@ Results driven engineer with an ability to apply strong analytical skills under 
 ## Projects
 2017 - **Houston, TX**
 
-**CFS Command & Data Dictionary Viewer/GUI**
+**CFS Command & Data Dictionary Full Stack Web Application**
 
-* Developing a GUI that interacts with a PostgreSQL database (the CCDD), & allow users to intuitively navigate the information in the CDD (without requiring them to have training on PostgreSQL itself).
-* Adding functionality to a node.js application that includes the addition of CFS component Mnemonics to parent tables, deployment to additional servers for use by the Orion AA2 team members, & the ability to refresh JSON data when the database is updated.
-* Completing error checking & debugging of over 3000 lines of code to ensure the quality of the project requirements to deploy an application that met the standards of the Orion AA2 team.
+* Developing a GUI that interacts with a PostgreSQL database (the CCDD), to allow users to analyze the spacecraft command & telemetry data in the CDD (without requiring them to have training on PostgreSQL itself).
+* Developing a scaleable backend using Node.js, & Express.js utilizing an MVC Architecture for deployment to additional servers for use by the Orion AA2 team members by follwing a REST architecture for optimal [software reuse](https://en.wikipedia.org/wiki/Code_reuse).
+* Building an authentication system to allow for multiple users on the application, a Bug Tracking database in PostgreSQL & providing an API to persist data for the project.
+* Completing error checking & debugging of over 3000 lines of code to ensure the quality of the project requirements to deploy an application that met the quality standards of the Orion AA2 team.
 
 ---
 
