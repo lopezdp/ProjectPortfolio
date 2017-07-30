@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This is my **Project Portfolio**. The **index.html** file is the initial page to load as the **index.html** file is what loaded by the web servers when stored in the public_html folders on Host Gator or any other hosting site where a web page is deployed.
+This is my **Project Portfolio**. The **index.html** file is the initial page to load as the **index.html** file is the default file loaded by the web servers when stored in the public_html folders on Host Gator or any other hosting site where a web page is deployed.
 
 This portfolio is meant to showcase some of my favorite projects to potential employers and customers who would like me to join their team as a *Software Engineer*.
 
@@ -24,11 +24,11 @@ Open a browser window and enter the following information into the address bar:
 
 ## Issues & Future Functionality
 
-1. The **References** button will be updated at a later date when my references send me their letters
+1. The **References** button will be updated at a later date when my references send me their letters.
 
-2. I would like to add a custom form attached to a PostgreSQL database to collect data from visitors who want to contact me
+2. I would like to add a custom form attached to a PostgreSQL database to collect data from visitors who want to contact me.
 
-3. I would like to redeploy the page using the Express.js framework to load the information and semantic **HTML** dynamically
+3. I would like to redeploy the page using the Express.js framework to load the information and semantic **HTML** dynamically.
 
 ## License
 
