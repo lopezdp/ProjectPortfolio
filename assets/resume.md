@@ -46,24 +46,34 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **Languages:** English, Spanish, Portuguese
 
 ## Projects
-2017 - **Houston, TX**
+2017 - **Houston, TX.**
 
 **CFS Command & Data Dictionary Full Stack Web Application**
 
-* Developing a GUI that interacts with a PostgreSQL database (the CCDD), to allow users to analyze the spacecraft command & telemetry data in the CDD (without requiring them to have training on PostgreSQL itself).
-* Developing a scaleable backend using Node.js, & Express.js utilizing an MVC Architecture for deployment to additional servers for use by the Orion AA2 team members by follwing a REST architecture for optimal [software reuse](https://en.wikipedia.org/wiki/Code_reuse).
+* Developing a GUI that interacts with a PostgreSQL database (the CCDD), to allow users to securely analyze the spacecraft command & telemetry data in the CDD (without requiring them to have training on PostgreSQL itself).
+* Developing a scalable backend using Node.js, & Express.js utilizing an MVC Architecture for deployment to additional servers for use by the Orion AA2 team members by following a REST architecture for optimal [software reuse](https://en.wikipedia.org/wiki/Code_reuse).
 * Building an authentication system to allow for multiple users on the application, a Bug Tracking database in PostgreSQL & providing an API to persist data for the project.
-* Completing error checking & debugging of over 3000 lines of code to ensure the quality of the project requirements to deploy an application that met the quality standards of the Orion AA2 team.
+* Completing error checking & debugging of over 10,000 lines of code to ensure the quality of the project requirements to deploy an application that met the quality standards of the Orion AA2 team.
 
 ---
 
-2017 - **Miami, FL**
+2017 - **Miami, FL.**
 
 **SeaBots Augmented Reality Network**
 
 * Completed the 3d Modeling, 3D Printing, & Engineering of a network of ROV’s & Semi-Submersibles that are capable of cleaning plastic particulates from the ocean & recovering crude oil from the surface of the ocean in Fusion360.
 * Developed an iOS Augmented Reality gaming prototype that allows users to control & engage with the submersibles to provide a platform that allows users to participate in the cleanup & mitigation of large scale global disasters.
 * Developed a web site at www.SeaBots.tech to crowd fund the project to raise money for the complete development of the project beyond the prototype phase.
+
+## Open Source Innovations & Publications
+August 2017 - **Houston, TX.**
+
+**National Aeronautics & Space Administration (NASA)**
+*eNTR: 1499100524*
+
+* The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
+
+---
 
 ## Experience
 *June 2017 − Present*
@@ -74,9 +84,10 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 **Software Engineer**
 
-* Designing a Graphical User Interface (GUI) to interact with a Command & Data Dictionary (CDD), a comprehensive definition of all commands & telemetry data used by NASA spacecraft.
-* Providing a common method of analyzing data in the CDD, as well as a method of generating the ".h" & ".rec" files from the CDD that directly benefits current & future NASA projects.
-* Developing a GUI that interacts with PostgreSQL (the CDD), & allows users to intuitively navigate the information in the CDD.
+* Designing a Graphical User Interface (GUI) to interact with the CFS Command & Data Dictionary (CCDD), a comprehensive definition of all command & telemetry data used by NASA spacecraft and robotic systems to allows users to intuitively navigate mission critical information.
+* Providing a common method of analyzing critical flight data in the CCDD, as well as a method of generating the ".h" & ".rec" files from the CDD that directly benefits current & future NASA projects by providing an abstract method of accessing command & telemetry data.
+* Developing integrated documentation and a bug tracking database in PostgreSQL to effectively communicate issues in real-time.
+* Building a secure application that eliminates vulnerabilities to cyber attacks by implementing features that use process arguments to define environment variables via the Linux command line instead of in the source code itself.
 
 ---
 
@@ -133,3 +144,19 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * Implemented, & customized $3mn project management software & databases to manage & control the project workflow by leveraging my understanding of technology to maintain the digital resources of the company.
 * Supervised the construction of the Miami International Airport 745B Project: 4-story construction contract to build Terminal B & C valued at $250,000,000.
 * Planned & Coordinated the daily construction operations & acquired the necessary skills as a construction professional to become licensed as a General Contractor in the State of Florida.
+
+---
+
+*April 2002 – Present*
+
+**Miami, FL.**
+
+**Sage Payments & First Data Merchant Solutions**
+
+**ISO Merchant Services**
+
+* Opened merchant service agreements & maintain a portfolio of active relationships with 25 retail establishments in the Miami market that produce an average of $100,000 in revenue every month.
+* Connected secure point of sale device hardware and web-based payment systems and provide all technical support for each account to ensure services were established with no down time for each merchant.
+* Reviewed & analyzed merchant account statements & activity to ensure sustainable services were provided to all accounts based on each merchant’s individual need.
+* Assist portfolio of merchant account customers in maintaining regular PCI Compliance to ensure against Credit Card & Merchant fraud as required by all merchant account agreements.
+
