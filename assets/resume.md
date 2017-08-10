@@ -73,8 +73,6 @@ August 2017 - **Houston, TX.**
 
 * The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
 
----
-
 ## Experience
 *June 2017 − Present*
 
