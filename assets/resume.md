@@ -127,7 +127,7 @@ August 2017 - **Houston, TX.**
 
 * Implemented & customized the NetSuite CRM Suite which included a product database of over 2,000 products using custom pricing matrices, payroll & accounting modules, & an e-commerce portal with an integrated merchant account processor.
 * Developed custom estimating applications & databases to automate our pricing procedures & to shorten the learning curve for all new hires in the estimating department by building in-house software using C++ & MySQL.
-* Founded & Sold a building supply company & leveraged my relationships to build a business that sold over $2mn in construction supplies annually after implementing an autonomous rebar fabrication facility.
+* Implemented a semi-autonomous rebar fabrication facility using aSa software utilities reducing labor costs by $25,000 per month. Ensured the sustainability of the operation and trained all new hires in the operation of all autonomous equipment.
 
 ---
 
