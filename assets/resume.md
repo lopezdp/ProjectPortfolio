@@ -36,7 +36,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **Microsoft Certificate of Achievement 80545** *Sales Management in Microsoft Dynamics CRM* - 2014
 * **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C, Ruby
 * **Web Technologies:** Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
-* **IDEs:** XCode, NetBeans, Visual Studio, Eclipse, QT, Atom, SublimeText
+* **IDEs & Dev Tools:** XCode, NetBeans, Visual Studio, Eclipse, QT, Atom, SublimeText, SoapUI, DevOps
 * **Version Control Systems:** Git
 * **Databases:** MySQL, PostgreSQL, SQLite
 * **CRM Systems:** NetSuite, SuiteScript, Microsoft Dynamics
@@ -74,7 +74,22 @@ August 2017 - **Houston, TX.**
 * The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
 
 ## Experience
-*June 2017 − Present*
+*November 2017 − Present*
+
+**Miami, FL.**
+
+**Visa Latin America**
+
+**Technical Product Manager**
+
+* Subject Matter Expert (SME) for Visa Token Service Cloud Based Cryptographic Payment Platform.
+* Responsible for the implementation and integration of Token Requestor-TSP and Issuer-TSP cloud based payment platforms with issuing banks and technology solution providers across Latin America and Europe.
+* Completing the functional testing of Google Android Host Card Emulation (HCE) enabled payments consuming Visa Token Service API's using symmetric and asymmetric encryption techniques.
+* Building DevOps automation tools in SalesForce and JavaScript that improve the efficiency of the Visa Token Service Integration team.
+
+---
+
+*June 2017 − September 2017*
 
 **Houston, TX.**
 
