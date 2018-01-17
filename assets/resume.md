@@ -20,10 +20,10 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 #### Miami Dade College
 
-**A.S. Computer Programming:** *Mobile Application Development* - 2017 (expected)
+**A.S. Computer Programming:** *Mobile Application Development* - 2018 (expected)
 * **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
 
-**B.S. Computer Engineering**  - 2019 (expected)
+**B.S. Computer Engineering**  - 2020 (expected)
 * **Concentrations:** Embedded Systems, & Network Forensics & Security
 
 **Udacity Nanodegree:** *Full Stack Web Development Program* - 2017
