@@ -68,7 +68,6 @@ a {
     border-radius: 1em;
     order: 9;
 
-    -webkit-overflow-scrolling: auto;
 }
 
 .resp-iframe {
@@ -79,7 +78,6 @@ a {
     height: 100%;
     border: 0;
 
-    pointer-events: none;
 }
 
 .resume {
