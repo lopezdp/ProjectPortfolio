@@ -83,7 +83,7 @@ if( window.location.search.match( /print-pdf/gi ) ) {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Space-Shuttle-Challenger-Thermal-Distress-Data">Space Shuttle Challenger Thermal Distress Data<a class="anchor-link" href="#Space-Shuttle-Challenger-Thermal-Distress-Data">&#182;</a></h1><p><strong><a href="https://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring">Project Data Set Source</a></strong></p>
 <p><img src="images/Challenger.jpg" /></p>
-<p><strong>Abstract &amp; Task:</strong> predict the number of O-rings that experience thermal distress on a flight at 31 degrees F given data on the previous 23 shuttle flights.</p>
+<p><strong>Abstract &amp; Task:</strong> Predict the number of O-rings that experience thermal distress on a flight at 31 degrees F given data on the previous 23 shuttle flights.</p>
 <table>
 <thead><tr>
 <th></th>
@@ -182,7 +182,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To  analyze this data set and to predict the number of O-rings that will experience thermal distress on a shuttle flight at 31 degrees F, the followwing tools will be used in order to illustrate and validate the predictions made by this study.</p>
+<p>To  analyze this data set and to predict the number of O-rings that will experience thermal distress on a shuttle flight at 31 degrees F, the following tools will be used in order to illustrate and validate the predictions made by this study.</p>
 <h3 id="Tool-Set:">Tool Set:<a class="anchor-link" href="#Tool-Set:">&#182;</a></h3>
 <pre><code>1. Numpy: The fundamental package for scientific computing with Python.
 
@@ -487,7 +487,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>From the original data set above, the columns for "Number of O-rings at risk on a given flight" and "Temporal order of flight" are dropped from the table because they do not provide meaningful enough data to help us predict future thermal distress events on any given launch. The goal of the analysis is to predict how many of the six (6) O-rings on any given flight are at risk of thermal distress. Every flight has six (6) O-rings and the study can safely eliminate this known data from the analysis because the data is constant.</p>
+<p>From the original data set above, the columns for "Number of O-rings at risk on a given flight" and "Temporal order of flight" are dropped from the table because they do not provide meaningful enough data to help us predict future thermal distress events on any given launch. The goal of the analysis is to predict how many of the six (6) O-rings on any given flight are at risk for thermal distress. Every flight has six (6) O-rings and the study can safely eliminate this known data from the analysis because the data is constant.</p>
 <p>The column for "Temporal order of flight" is being dropped because each shuttle flight is an independent event with a new set of O-rings to consider. The 23 flights provide data on the O-ring performance for each individual shuttle flight and a reference point from which to consider for future O-ring performance. The Reduced Data Set is shown below.</p>
 
 </div>
@@ -701,7 +701,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>This analysis will focus on number of O-rings experiencing thermal distress based on different temperature and pressure readings from the previous 23 flights of the shuttle program. The data display the amount of O-rings experiencing thermal distress events at different data points which we can use to make a prediction using possible temperature and pressure inputs. Our initial goal is to determine how much each of these variable correlate to a thermal distress event and how much of an impact they make.</p>
+<p>This analysis will focus on number of O-rings experiencing thermal distress based on different temperature and pressure readings from the previous 23 flights of the shuttle program. The data displays the amount of O-rings experiencing thermal distress events at different data points which we can use to make a prediction using possible temperature and pressure inputs. Our initial goal is to determine how much each of these variable correlate to a thermal distress event and how much of an impact they are likely to make in causing a catostrohpic failure of a shuttle launch.</p>
 <p>The significant data as described below presents us with data from 23 previous shuttle flights with a <strong><em>mean launch temperature of 69.57 degrees F</em></strong> and a <strong><em>mean leak-check pressure of 152.17 psi</em></strong>. These conditions have presented a maximum of <strong><em>2 thermal distress</em></strong> events with no failures over <strong><em>23 events</em></strong>. Considering that the NASA Space Shuttle Program experienced a catastrophic failure on the 24th launch with a lanch temperature of <strong><em>31 degrees F</em></strong> our task is to predict how many O-rings will fail in a future launch under the same conditions, or worse conditions.</p>
 
 </div>
@@ -825,8 +825,8 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>After identifying the data to be analyzed, the next task is to find the degree of correlation each variable has to a thermal distress event. Using the heat map functionality provided by the Seaborn library, we can graphically see the magnitude of impact of each independent variable correlated to a thermal distress event. The launch temperature is inversely correlated and the colder the temperature the more closely it correlates to a thermal distress event.</p>
-<p>The leak-check pressure is only slightly correlated to a thermal distress event. The magnitude of its impact is displayed by a very light shade of red indicating that a higher reading in pressure will slightly impact probability of the onset of a thermal distress event.</p>
+<p>After identifying the data to be analyzed, the next task is to find the degree of correlation each variable has to a thermal distress event. Using the heat map functionality provided by the Seaborn library, we can graphically see the magnitude of the impact for each independent variable correlated to a thermal distress event. The launch temperature is inversely correlated to a thermal distress event meaning that the colder the temperature the more closely it correlates to a thermal distress event.</p>
+<p>The leak-check pressure is only slightly correlated to a thermal distress event. The magnitude of its impact is displayed by a very light shade of red indicating that a higher reading in pressure will slightly impact the probability of the onset of a thermal distress event.</p>
 
 </div>
 </div>
@@ -892,7 +892,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Using the Seaborn library we continue studying the correlation of the variables that impact the probability of the onset of a thermal distress event. Plotting a regression line using data for both the launch temperature and leak-check pressure, it is easier to see that the magnitude of each variable correlates as hypothesized and that the use of a linear regression model will help to predict future thermal distress events using different inputs for each independent variable to predict the probability of catastrophic failure by predicting how many O-rings would fail at a given temperature and pressure.</p>
+<p>Using the Seaborn library we continue studying the correlation of the variables that impact the probability of the onset of a thermal distress event. Plotting a regression line using data for both the launch temperature and leak-check pressure, it is easier to see that the magnitude of each variable correlates as hypothesized with a thermal distress event and that the use of a linear regression model will help to predict future thermal distress events using different inputs for each independent variable to predict the probability of catastrophic failure by predicting how many O-rings may fail at a given temperature and pressure.</p>
 
 </div>
 </div>
@@ -1005,7 +1005,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Using a distribution plot of the data for each of the 23 shuttle launches we can analyze the occurrences of thermal distress events vs launches without thermal distress events. It can be inferred by the data displayed that thermal distress events are more likely at lower launch temperatures.</p>
+<p>Using a distribution plot of the data for each of the 23 shuttle launches we can analyze the occurrences of thermal distress events vs launches without thermal distress events. It can be inferred by the data displayed that thermal distress events are more likely to occur at lower launch temperatures.</p>
 
 </div>
 </div>
@@ -1033,19 +1033,6 @@ shuttle. American Statistics, 46, 42--47.
 
 <div class="output_wrapper">
 <div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>c:\program files\python36\lib\site-packages\matplotlib\axes\_axes.py:6462: UserWarning: The &#39;normed&#39; kwarg is deprecated, and has been replaced by the &#39;density&#39; kwarg.
-  warnings.warn(&#34;The &#39;normed&#39; kwarg is deprecated, and has been &#34;
-</pre>
-</div>
-</div>
 
 <div class="output_area">
 
@@ -1092,7 +1079,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Our next task is to use a linear regression Machine Learning algorithm to help us predict the occurence of thermal distress events based on forecasted future launch temperatures.</p>
+<p>Our next task is to use a linear regression Machine Learning algorithm to help us predict the occurrence of thermal distress events based on forecasted future launch temperatures.</p>
 
 </div>
 </div>
@@ -1149,7 +1136,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Predict-Thermal-Distress">Predict Thermal Distress<a class="anchor-link" href="#Predict-Thermal-Distress">&#182;</a></h2><p>Using sklearn to train the machine learning algorithm we can now predict how many thermal distress events will occur at a given temperature and pressure using a numpy data structure. Reshaping the data to allow for the input of one row of data with two columns for launch temperature and leak-check pressure, we can predict how many thermal distress events have a high probability of occurring at 31 degrees F and at 150 psi.</p>
+<h2 id="Predict-Thermal-Distress">Predict Thermal Distress<a class="anchor-link" href="#Predict-Thermal-Distress">&#182;</a></h2><p>Using sklearn to train the machine learning algorithm we can now predict how many thermal distress events will occur at a given temperature and pressure using a numpy data structure. Reshaping the data to allow for the input of one row of data with two columns for launch temperature and leak-check pressure, we can predict how many thermal distress events have a high probability of occurring at the forcasted launch temperatures of 31 degrees F using a leach-check pressure of 150 psi.</p>
 
 </div>
 </div>
@@ -1200,7 +1187,7 @@ shuttle. American Statistics, 46, 42--47.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>At 31 degrees F the Linear Regression model predicts that <strong><em>2.546 O-Rings</em></strong> will experience Thermal Distress that may lead to failure as was the case during the Space Shuttle Challenger Mission when launch temperatures t were predicted at 31 degrees F.</p>
+<p>Using 31 degrees F as the launch temperature assumption, the Linear Regression model predicts that <strong><em>2.546 O-Rings</em></strong> will experience Thermal Distress that may lead to failure as was the case during the Space Shuttle Challenger Mission when launch temperatures t were forecasted at 31 degrees F. Considering that no previous launch had ever taken place at launch temperatures lower than 53 degrees F, the Challenger Space Shuttle Launch should not have taken place when it did. Machine Learning could have been used to save those astronaut's lives that day!</p>
 
 </div>
 </div>
