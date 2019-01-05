@@ -16,36 +16,19 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 ---
 
-## Education
-
-#### Miami Dade College
-
-**A.S. Computer Programming:** *Mobile Application Development* - 2018 (expected)
-* **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
-
-**A.A. Physics:** - 2018 (expected)
-
-**B.S. Computer Engineering**  - 2020 (expected)
-* **Concentrations:** Embedded Systems, & Network Forensics & Security
-
-**Udacity Nanodegree:** *Full Stack Web Development Program* - 2017
-* **Related Courses:** *JavaScript, Python, PostgreSQL, Node.js, AJAX, HTML, & CSS*
-
 ## Certifications, & Technical Skills
 
-* **Microsoft Certificate of Achievement 80542** *Customization & Configuration in Microsoft Dynamics CRM* - 2014
-* **Microsoft Certificate of Achievement 80545** *Customer Service in Microsoft Dynamics CRM* - 2014
-* **Microsoft Certificate of Achievement 80545** *Sales Management in Microsoft Dynamics CRM* - 2014
-* **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C, Ruby
-* **Web Technologies:** Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
-* **IDEs & Dev Tools:** XCode, NetBeans, Visual Studio, Eclipse, Android Studio, QT, Atom, SublimeText, SoapUI, DevOps
+* **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C
+* **Web Technologies:** ReactJS, Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
+* **IDEs & Dev Tools:** SublimeText3, XCode, NetBeans, Eclipse, Android Studio, QT, SoapUI
 * **Version Control Systems:** Git
 * **Data Science Tools:** TensorFlow, Numpy, Pandas, SciKit-Learn, Seaborn, IPython, MatPlotLib
-* **Databases:** MySQL, PostgreSQL, SQLite
+* **Databases:** MySQL, PostgreSQL, SQLite, DynamoDB (NoSQL)
 * **CRM Systems:** NetSuite, SuiteScript, Microsoft Dynamics, SalesForce
 * **CAD Systems/3D Modeling:** AutoCAD, Fusion360, AutoDesk Education Expert
 * **Hardware:** Raspberry Pi, Arduino
 * **Operating Systems:** CentOS, Scientific Linux, Windows, RobotOS
+* **Cloud Infrastructure:** AWS Serverless (Cognito, Lambda, CodeBuild, CodeDeploy, & CodePipeline)
 * **Languages:** English, Spanish, Portuguese
 
 ## Projects
@@ -53,7 +36,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 **CFS Command & Data Dictionary Full Stack Web Application**
 
-* Developed a GUI that interacts with a PostgreSQL database (the CCDD), to allow users to securely analyze the spacecraft command & telemetry data in the CDD (without requiring them to have training on PostgreSQL itself).
+* Developed a Web-based application that interacts with a PostgreSQL database (the CCDD), to allow users to securely analyze robotics, spacecraft command & telemetry data in the CDD (without requiring them to have training on PostgreSQL itself).
 * Developed a scalable backend using Node.js, & Express.js utilizing an MVC Architecture for deployment to additional servers for use by the Orion AA2 team members by following a REST architecture for optimal [software reuse](https://en.wikipedia.org/wiki/Code_reuse).
 * Built an authentication system to allow for multiple users on the application, a Bug Tracking database in PostgreSQL & providing an API to persist data for the project.
 * Completed error checking & debugging of over 10,000 lines of code to ensure the quality of the project requirements to deploy an application that met the quality standards of the Orion AA2 team.
@@ -76,8 +59,20 @@ August 2017 - **Houston, TX.**
 
 * The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
 
+September 2018 - **Miami, FL.**
+
+**Miami Dade College STEM Research Institute**
+**US Dept of Education & National Science Foundation Grant**
+
+* **A Machine Learning Model using Python & Tensorflow to Describe the Market Price of Digital Currencies: The Case of Bitcoin.**
+
+* [Research Document](https://www.DavidPLopez.com/BTC.html)
+
+* **ABSTRACT** (Condensed)
+An implementation of a Machine Learning model using TensorFlow to describe the price of Bitcoin. The study quantified 30 predictors to develop a multiple linear regression to predict the market price of Bitcoin via Root Mean Square Error (RMSE) function. The model observed daily pricing and feature data to answer the question: which predictors have a significant impact on the price of Bitcoin? Consisting of 2,912 observations the model explained 77.2% percent of the variation of the response variable. The model suggested that the features associated with market demand, number of transactions, transaction confirmation times, transaction USD volume, and market demand measured using Google Search Trends data, account for the prices observed in the Bitcoin markets today. Faster confirmation times, demand as measured by daily Google searches, and transaction volume, explain 77.2% of the price of Bitcoin described by the R-Squared result.
+
 ## Experience
-*November 2017 − Present*
+*November 2017 − October 2018*
 
 **Miami, FL.**
 
@@ -87,12 +82,12 @@ August 2017 - **Houston, TX.**
 
 * Subject Matter Expert (SME) for Visa Token Service Cloud Based Cryptographic Payment Platform.
 * Responsible for the implementation and integration of Token Requestor-TSP and Issuer-TSP cloud based payment platforms with issuing banks and technology solution providers across Latin America and Europe.
-* Completing the functional testing of Google Android Host Card Emulation (HCE) enabled payments consuming Visa Token Service API's using symmetric and asymmetric encryption techniques.
-* Building DevOps automation tools in SalesForce and JavaScript that improve the efficiency of the Visa Token Service Integration team.
+* Completed the integration of Google Android Host Card Emulation (HCE) enabled payments consuming Visa Token Service API's using symmetric and asymmetric encryption techniques.
+* Developed software testing automation tools using NodeJS to improve the efficiency of the Visa Token Service Integration team globally.
 
 ---
 
-*April 2018 − Present*
+*April 2018 − September 2018*
 
 **Miami, FL.**
 
@@ -190,3 +185,16 @@ August 2017 - **Houston, TX.**
 * Reviewed & analyzed merchant account statements & activity to ensure sustainable services were provided to all accounts based on each merchant’s individual need.
 * Assist portfolio of merchant account customers in maintaining regular PCI Compliance to ensure against Credit Card & Merchant fraud as required by all merchant account agreements.
 
+## Education
+
+#### Miami Dade College
+
+**A.S. Computer Programming:** *Mobile Application Development*
+* **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
+
+**A.A. Physics:**
+* **Related Courses:** Calculus I,II,III, Physics, Statistics, & Economics
+
+**B.S. Computer Engineering**
+* **Concentrations:** Embedded Systems, & Network Forensics & Security
+* Minimal course work required for completion.
