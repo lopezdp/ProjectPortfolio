@@ -19,7 +19,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 ## Technical Skills
 
 * **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C
-* **Web Technologies:** ReactJS, Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
+* **Web Technologies:** React.js, Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
 * **IDEs & Dev Tools:** SublimeText3, XCode, NetBeans, Eclipse, Android Studio, QT, SoapUI
 * **Version Control Systems:** Git
 * **Data Science Tools:** TensorFlow, Numpy, Pandas, SciKit-Learn, Seaborn, IPython, MatPlotLib
