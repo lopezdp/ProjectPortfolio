@@ -55,13 +55,15 @@ Results driven engineer with an ability to apply strong analytical skills under 
 August 2017 - **Houston, TX.**
 
 **National Aeronautics & Space Administration (NASA)**
+
 *eNTR: 1499100524*
 
 * The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
 
 September 2018 - **Miami, FL.**
 
-**Miami Dade College STEM Research Institute**
+**MDC STEM Research Institute**
+
 **US Dept of Education & National Science Foundation Grant**
 
 * **A Machine Learning Model using Python & Tensorflow to Describe the Market Price of Digital Currencies: The Case of Bitcoin.**
