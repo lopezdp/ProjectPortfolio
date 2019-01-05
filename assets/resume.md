@@ -16,7 +16,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 
 ---
 
-## Certifications, & Technical Skills
+## Technical Skills
 
 * **Programming Languages:** C++, Java, Python, JavaScript, jQuery, Objective-C
 * **Web Technologies:** ReactJS, Node.js, Express.js, AJAX, JSON, XML, HTML, & CSS
@@ -29,6 +29,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **Hardware:** Raspberry Pi, Arduino
 * **Operating Systems:** CentOS, Scientific Linux, Windows, RobotOS
 * **Cloud Infrastructure:** AWS Serverless (Cognito, Lambda, CodeBuild, CodeDeploy, & CodePipeline)
+* **UX/UI Tools:** Adobe XD, Photoshop, Spark, Animate
 * **Languages:** English, Spanish, Portuguese
 
 ## Projects
@@ -59,6 +60,8 @@ August 2017 - **Houston, TX.**
 
 * The vision for the CCDD Web Utility is for it to be released as an Open Source project alongside the Core Flight Software CDD as a member of the Core Flight Software Tool Suite. The CCDD Web Utility will be useful to any CFS project that decides to use the CCDD tool even if it is not a CFS project. Because of the configurability and extensibility, it can be used abstractly by any project team requiring distributed access to persistent data contained inside a CCDD project database.
 
+---
+
 September 2018 - **Miami, FL.**
 
 **MDC STEM Research Institute**
@@ -68,10 +71,41 @@ September 2018 - **Miami, FL.**
 
 * [Research Document](https://www.DavidPLopez.com/BTC.html)
 
-* **ABSTRACT** (Condensed)
-An implementation of a Machine Learning model using TensorFlow to describe the price of Bitcoin. The study quantified 30 predictors to develop a multiple linear regression to predict the market price of Bitcoin via Root Mean Square Error (RMSE) function. The model observed daily pricing and feature data to answer the question: which predictors have a significant impact on the price of Bitcoin? Consisting of 2,912 observations the model explained 77.2% percent of the variation of the response variable. The model suggested that the features associated with market demand, number of transactions, transaction confirmation times, transaction USD volume, and market demand measured using Google Search Trends data, account for the prices observed in the Bitcoin markets today. Faster confirmation times, demand as measured by daily Google searches, and transaction volume, explain 77.2% of the price of Bitcoin described by the R-Squared result.
+* **ABSTRACT** (Condensed):
+
+An implementation of a Machine Learning model using TensorFlow to describe the price of Bitcoin. The study quantified 30 predictors to develop a multiple linear regression to predict the market price of Bitcoin. The model observed daily pricing and feature data to answer the question: which predictors have a significant impact on the price of Bitcoin? Consisting of 2,912 observations the model explained 77.2% percent of the variation of the response variable. The model suggested that the features associated with market demand, number of transactions, transaction confirmation times, transaction USD volume, and market demand measured using Google Search Trends data, account for the prices observed in the Bitcoin markets today.
 
 ## Experience
+*January 2019 − Present*
+
+**Miami, FL.**
+
+**SpecTruMetRx**
+
+**Software Architect**
+
+* Leading software architecture, design, engineering, & implementation for SpecTruMetRx, Inc. Conceived, managed, and built B2B-facing, privacy-first medical payments service. Architected & implemented a horizontally scalable, distributed cloud service platform.
+* Developing a Progressive Web Application (PWA) and implementing a microservices based backend architecture with an AWS Aurora (PostgreSQL Instance), DynamoDB, AWS Lambda Serverless, ReactJS, & NodeJS technology stack to process B2B Digital Medical claims & payments on a private Blockchain.
+* Designed platform data model to 3nF & currently implementing data stores in DynamoDB & PostgreSQL to persist encrypted data to a data warehouse that will include data to support multiple entities across the enterprise on both reporting and predictive analysis.
+
+---
+
+*August 2018 − December 2018*
+
+**Miami, FL.**
+
+**PayCargo**
+
+**Technical Contractor**
+
+* Secured payments network from attack and implemented CyberSecurity controls to proactively mitigate against existing threats. Redeployed live application with no down-time using AWS AMI Linux instances to ensure continuity of enterprise level systems in production.
+* Configured CI/CD workflows to automate development & production deployment activities using AWS CodeDeploy & CodePipeline.
+* System Architect for Blockchain solution & proof of concept needed for the design of a private node used for confirming international transactions enabled by the PayCargo Fx solution.
+* Created corporate management controls & InfoSec policies to prevent further unauthorized access to payment systems while managing engineering teams to report work in place statuses to executive team & 3rd-party technology auditors.
+* Implemented SAML 2.0 SSO authentication mechanism to enable secure system access for FedEx employees using the platform to track cargo payments & transactions accounted for by the network.
+
+---
+
 *November 2017 − October 2018*
 
 **Miami, FL.**
@@ -109,7 +143,7 @@ An implementation of a Machine Learning model using TensorFlow to describe the p
 
 **Software Engineer**
 
-* Designed a Graphical User Interface (GUI) to interact with the CFS Command & Data Dictionary (CCDD), a comprehensive definition of all command & telemetry data used by NASA spacecraft and robotic systems to allows users to intuitively navigate mission critical information.
+* Developed a web application to interact with the CFS Command & Data Dictionary (CCDD), a comprehensive definition of all command & telemetry data used by NASA spacecraft and robotic systems to allows users to intuitively navigate mission critical information.
 * Provided a common method of analyzing critical flight data in the CCDD, as well as a method of generating the ".h" & ".rec" files from the CDD that directly benefits current & future NASA projects by providing an abstract method of accessing command & telemetry data.
 * Developed integrated documentation and a bug tracking database in PostgreSQL to effectively communicate issues in real-time.
 * Built a secure application that eliminates vulnerabilities to cyber attacks by implementing features that use process arguments to define environment variables via the Linux command line instead of in the source code itself.
@@ -190,7 +224,7 @@ An implementation of a Machine Learning model using TensorFlow to describe the p
 #### Miami Dade College
 
 **A.S. Computer Programming:** *Mobile Application Development*
-* **Related Courses:** Objective-C, C++, Java, iOS & Android Development, & MySQL
+* **Related Courses:** Objective-C, C++, Advanced Java, iOS & Android Development, & MySQL
 
 **A.A. Physics:**
 * **Related Courses:** Calculus I,II,III, Physics, Statistics, & Economics
