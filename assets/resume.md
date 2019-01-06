@@ -28,7 +28,7 @@ Results driven engineer with an ability to apply strong analytical skills under 
 * **CAD Systems/3D Modeling:** AutoCAD, Fusion360, AutoDesk Education Expert
 * **Hardware:** Raspberry Pi, Arduino
 * **Operating Systems:** CentOS, Scientific Linux, Windows, RobotOS
-* **Cloud Infrastructure:** AWS Serverless (Cognito, Lambda, CodeBuild, CodeDeploy, & CodePipeline)
+* **Cloud Infrastructure:** AWS Serverless (Cognito, Lambda, API Gateway, CloudFormation, CodeBuild, CodeDeploy, & CodePipeline)
 * **UX/UI Tools:** Adobe XD, Photoshop, Spark, Animate
 * **Languages:** English, Spanish, Portuguese
 
@@ -84,7 +84,7 @@ An implementation of a Machine Learning model using TensorFlow to describe the p
 
 **Software Architect**
 
-* Leading software architecture, design, engineering, & implementation for SpecTruMetRx, Inc. Conceived, managed, and built B2B-facing, privacy-first medical payments service. Architected & implemented a horizontally scalable, distributed cloud service platform.
+* Leading software architecture, design, engineering, & implementation for SpecTruMetRx, Inc. Conceived, managed, and built B2B-facing, privacy-first medical payments service. Architected & implemented a horizontally scalable, distributed cloud-service platform.
 * Developing a Progressive Web Application (PWA) and implementing a microservices based backend architecture with an AWS Aurora (PostgreSQL Instance), DynamoDB, AWS Lambda Serverless, ReactJS, & NodeJS technology stack to process B2B Digital Medical claims & payments on a private Blockchain.
 * Designed platform data model to 3nF & currently implementing data stores in DynamoDB & PostgreSQL to persist encrypted data to a data warehouse that will include data to support multiple entities across the enterprise on both reporting and predictive analysis.
 
