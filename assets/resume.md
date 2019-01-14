@@ -96,7 +96,7 @@ An implementation of a Machine Learning model using TensorFlow to describe the p
 
 **PayCargo**
 
-**Technical Contractor**
+**Software Engineering Contractor**
 
 * Secured payments network from attack and implemented CyberSecurity controls to proactively mitigate against existing threats. Redeployed live application with no down-time using AWS AMI Linux instances to ensure continuity of enterprise level systems in production.
 * Configured CI/CD workflows to automate development & production deployment activities using AWS CodeDeploy & CodePipeline.
