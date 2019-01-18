@@ -6,7 +6,7 @@ This portfolio is meant to showcase some of my favorite projects to potential em
 
 ## Running the Webpage
 
-From Github, clone or download the repository and its associated file structure to any directory you wish to save it on. Double click on the **index.html** file to open the file in a browser or use the following instruction to display in the browser of your choice:
+From Github, clone or download the repository and its associated file structure to a directory you wish to save it on. Double click on the **index.html** file to open the file in a browser or use the following instruction to display in the browser of your choice:
 
 #### Windows
 
