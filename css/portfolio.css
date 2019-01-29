@@ -155,7 +155,15 @@ a {
     padding-left: 1em;
 	background-repeat: no-repeat;
     border-radius: 80%;
+}
 
+.keep-img {
+	width: 50%;
+    height: 50%;
+    padding-top: 0px;
+    padding-left: 1em;
+	background-repeat: no-repeat;
+    border-radius: 10%;
 }
 
 .project-description {
