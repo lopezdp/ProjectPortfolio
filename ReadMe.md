@@ -1,4 +1,3 @@
-
 # Project Portfolio
 
 This is my **Project Portfolio**. The **index.html** file is the initial page to load as the **index.html** file is the default file loaded by the web servers when stored in the public_html folders on Host Gator or any other hosting site where a web page is deployed.
